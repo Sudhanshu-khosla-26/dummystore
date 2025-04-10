@@ -1,4 +1,4 @@
-"use client"
+
 import { useCart } from "../context/CartContext"
 import CartItem from "./CartItem"
 import Notification from "./Notification"

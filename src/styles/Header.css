@@ -169,7 +169,8 @@
     left: 0;
     width: 100%;
     flex-direction: column;
-    background-color: white;
+    background-color: #131921;
+    color: white;
     padding: 0;
     max-height: 0;
     overflow: hidden;
